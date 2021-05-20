@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrtoxicity
+- 👋 Hi, I’m @mrtoxicity - Tushar Toteja
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on websites , startups, open source projects
